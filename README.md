@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src=https://www.google.com/search?q=gif+for+github+readme&rlz=1C1CHWL_enIN1033IN1033&sxsrf=APwXEddM7Jd9RFwjULH4RzHAY9j4BOZa8Q:1679731512672&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjB1IXBz_b9AhUzwjgGHcuHBNkQ_AUoAXoECAEQAw&biw=1280&bih=601&dpr=1.5#imgrc=LOz2HHLgKx2CDM>
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=gif+for+github+readme&rlz=1C1CHWL_enIN1033IN1033&sxsrf=APwXEddM7Jd9RFwjULH4RzHAY9j4BOZa8Q:1679731512672&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjB1IXBz_b9AhUzwjgGHcuHBNkQ_AUoAXoECAEQAw&biw=1280&bih=601&dpr=1.5#imgrc=LOz2HHLgKx2CDM">
 # 💫 About Me:
 - 🔭 I’m currently working on **Splash Screen**<br><br>- 🌱 I’m currently learning **Kotlin**<br><br>- 👯 I’m looking to collaborate on **Android App Development**<br><br>- 🤝 I’m looking for help with **React Native**<br><br>- 💬 Ask me about **Kotlin, Front-end development**
 
